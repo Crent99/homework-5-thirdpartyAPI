@@ -14,6 +14,8 @@ This project was made for people who have trouble keeping their day to day life 
 
 ## Screenshots
 
+![image](https://github.com/Crent99/homework-5-thirdpartyAPI/assets/144420438/3d372389-f844-4bc1-b245-4babb9f34e1e)
+
 ## Link
 
 Link: https://crent99.github.io/homework-5-thirdpartyAPI/
